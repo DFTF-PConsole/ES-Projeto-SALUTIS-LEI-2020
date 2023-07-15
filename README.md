@@ -50,6 +50,9 @@ Engenharia de Software (ES) - 2020/2021	<br />
 - [Final Product Delivery](Sprint%204/SALUTISPL6.1.mp4)
 
 
+https://github.com/DFTF-PConsole/ES-Projeto-SALUTIS-LEI-2020/assets/57419719/9ed093e6-30d9-4ff7-a4b9-6067a175ebb5
+
+
 <br />
 
 ## Equipa:
