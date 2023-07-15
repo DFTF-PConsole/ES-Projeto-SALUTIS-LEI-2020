@@ -12,17 +12,54 @@ Engenharia de Software (ES) - 2020/2021	<br />
 <br />
 
 ## Projeto: "SALUTIS"
-- [`?/`](?/)
-- [?](https://)
+
+### [`Introdução/`](Introdução/)
+- [Apresentação do Cliente](Introdução/Apresentação%20do%20cliente%20de%20ES%20(aula%201).pdf)
+- [Salutis - A Aplicação (Visão) v0.9](Introdução/Salutis%20-%20A%20aplicação%20(visão)%20v0.9.pdf)
+
 
 <br />
 
-## Equipa: !Rabiscos (PL6.1)
+### [`Sprint 1/`](Sprint%201/)
+- [`Atas/`](Sprint%201/Atas/)
+- [Documento de visão](Sprint%201/ES2020_Vision_PL6_v1.pdf)
+
+
+<br />
+
+### [`Sprint 2/`](Sprint%202/)
+- [`Atas/`](Sprint%202/Atas/)
+- [Documento de Requisitos (REQ)](Sprint%202/Documento_de_requisitos_v.final.pdf)
+- [Manual de Qualidade (MQ)](Sprint%202/Manual_de_Qualidade_!RabiscosPL6.1_v1.0.pdf)
+
+
+<br />
+
+### [`Sprint 3/`](Sprint%203/)
+- [`Atas/`](Sprint%203/Atas/)
+- [Manual de Qualidade (v2)](Sprint%203/Manual_de_Qualidade_!Rabiscos_PL6.1_v2.0.pdf)
+- [Documento de Requisitos (v2) - Diagramas](Sprint%203/REQ_Diagramas_!Rabiscos_PL6.1.pdf)
+- [Documento de Requisitos (v2) - Use-Cases (UC)](Sprint%203/REQ_Use_Cases_!Rabiscos_PL6.1.pdf)
+
+
+<br />
+
+### [`Sprint 4/`](Sprint%204/)
+- [`Atas/`](Sprint%204/Atas/)
+- [Final Artifacts Delivery](Sprint%204/PL6.1_Artefactos.pdf)
+- [Final Product Delivery](Sprint%204/SALUTISPL6.1.mp4)
+
+
+<br />
+
+## Equipa:
+**!Rabiscos (PL6.1)**
 
 <br />
 
 ## Autores:
 * **Dário Félix / DFTF@PConsole#**, Nº 2018275530, [dario@student.dei.uc.pt](mailto:dario@student.dei.uc.pt), GitHub: [@DFTF-PConsole](https://github.com/DFTF-PConsole)
+<br />
 
 * **Abdellahi Brahim**, Nº 2018280021, [uc2018280021@student.uc.pt](mailto:uc2018280021@student.uc.pt)
 * **Alexandra Oliveira**, Nº 2017243775, [uc2017243775@student.uc.pt](mailto:uc2017243775@student.uc.pt)
